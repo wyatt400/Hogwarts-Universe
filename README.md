@@ -10,9 +10,8 @@
 <a href="http://hogwartsishere.com">Hogwarts is Here, </a>
 <p>and</p>
 <a href="https://hol.org.uk">Hogwarts Online.</a>
-<p> </p>
+    <p> </p>
 <img src="../../../assets/Images/DarkHogwarts.jpg">
-<p> </p>
 <p><u>OUR TOP PICKS ARE:</u></p>
 <a href="http://myhogwarts.com">myHogwarts, </a>
 <p>and</p>
