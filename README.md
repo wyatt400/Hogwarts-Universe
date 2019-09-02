@@ -23,6 +23,5 @@
 </div>
 
 <div style="text-align: center">
-<p>{{greeting}}</p>
 <button (click)="hello()">CLICK TO SEE THE CREDITS FOR THIS WEBSITE</button>
 </div>
