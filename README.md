@@ -20,7 +20,3 @@
 <h4>THESE ARE ALL GREAT WEBSITES TESTED BY ME!</h4>
 <img src="../../../assets/Images/Hogwarts0900.jpg" alt="Image of Hogwarts School">
 </div>
-
-<div style="text-align: center">
-<button (click)="hello()">CLICK TO SEE THE CREDITS FOR THIS WEBSITE</button>
-</div>
